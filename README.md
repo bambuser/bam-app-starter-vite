@@ -3,7 +3,7 @@
 Basic Vite scaffolding to get started building your Bam App
 
 Requirements:
-* Node.js v18+
+* Node.js v20+
 
 # Local development server
 
